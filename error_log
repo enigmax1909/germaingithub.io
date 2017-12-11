@@ -1,0 +1,14 @@
+[26-Dec-2016 09:45:32 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home3/gevictor/public_html/actions.php on line 10
+[26-Dec-2016 09:47:06 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home3/gevictor/public_html/actions.php on line 10
+[26-Dec-2016 09:48:20 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home3/gevictor/public_html/actions.php on line 13
+[26-Dec-2016 09:48:50 America/Chicago] PHP Warning:  Illegal string offset 'password' in /home3/gevictor/public_html/actions.php on line 10
+[26-Dec-2016 09:48:50 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home3/gevictor/public_html/actions.php on line 10
+[26-Dec-2016 09:50:48 America/Chicago] PHP Warning:  Illegal string offset 'password' in /home3/gevictor/public_html/actions.php on line 10
+[26-Dec-2016 09:50:48 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home3/gevictor/public_html/actions.php on line 10
+[26-Dec-2016 09:53:58 America/Chicago] PHP Warning:  Illegal string offset 'password' in /home3/gevictor/public_html/actions.php on line 11
+[26-Dec-2016 09:53:58 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home3/gevictor/public_html/actions.php on line 11
+[26-Dec-2016 09:55:00 America/Chicago] PHP Warning:  Illegal string offset 'password' in /home3/gevictor/public_html/actions.php on line 11
+[26-Dec-2016 09:55:00 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home3/gevictor/public_html/actions.php on line 11
+[26-Dec-2016 09:59:17 America/Chicago] PHP Warning:  Illegal string offset 'password' in /home3/gevictor/public_html/actions.php on line 10
+[26-Dec-2016 09:59:17 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home3/gevictor/public_html/actions.php on line 10
+[26-Dec-2016 16:48:47 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home3/gevictor/public_html/actions.php on line 19

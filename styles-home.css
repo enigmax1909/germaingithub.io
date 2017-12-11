@@ -1,0 +1,57 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.jumbotron {  background-size: cover; }
+
+.blackBrain{
+    
+    background-image: url("booky3.jpg"); 
+    height:50%;
+}
+
+.main-text{
+    
+    color: white;
+}
+
+.background-logIn{
+    
+     background-image: url("booky-login.jpg"); 
+     
+}
+
+.inside-input {
+    background-color: black;
+    color: white;
+    border-bottom: 2px solid white;
+    border-left: none;
+    border-top:none;
+    border-right: none;
+    width: 300px;
+    height: 30px;
+    margin: 10px;
+    padding: 30px 20px 12px 5px;
+    width: 100%;
+}
+
+.login-title{
+    color: white;
+    font-size: 35px;
+   padding: 0px;
+   margin 0px;    
+    
+}
+
+#errors{
+    
+    display: none;
+}
+
+#success{
+    
+    display: none;
+}
+

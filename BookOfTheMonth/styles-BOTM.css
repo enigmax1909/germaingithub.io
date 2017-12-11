@@ -1,0 +1,179 @@
+
+
+a{
+    color:black;
+}
+
+a:hover{
+    
+    color:grey;
+    border-top: 3px solid white; /* or whatever colour you'd prefer */
+
+}
+
+.navb{
+     background-color:black;
+    
+}
+
+
+.pic{
+    
+    background-image: url("MalcolmX2.jpg"); 
+}
+
+.jumbotron1 {
+  padding: 30px 15px;
+  margin-bottom: 30px;
+  padding-bottom: 400px;    
+  background-color: #f9f9f9;
+  background-image: url("MalcolmX1.jpg")
+}
+
+.btn{
+    padding-top: 5px;
+    position:relative;
+    width: 150%;
+    left: 400%;
+    height: 40px;
+}
+
+.nvr{
+    position:relative;
+    left:1.5%;
+}
+
+.logout{
+    
+   float: right;       
+       
+}
+
+.lcolor{
+    color:white;
+    font-size: 125%;
+}
+
+.wider-nav{
+    padding-bottom: 20px;
+}
+
+.username{
+    color:black;
+    font-size: 150%;
+}
+
+.bookTitle{
+  background-color: black;  
+  color:white;
+  padding-top: 10px;
+  padding-bottom: 5px;
+  text-align: center; 
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Indie Flower', cursive;
+  font-family: 'Permanent Marker', cursive;    
+}
+
+.bookTitleBot{
+  background-color: black;  
+  color:white;
+  padding-bottom: 10px;
+  text-align: center;   
+  font-size: 30px;
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Indie Flower', cursive;
+  font-family: 'Permanent Marker', cursive;
+  font-family: 'Vidaloka', serif;
+
+    
+}
+
+.photo{
+    
+    display: block;
+    margin: auto;
+    background-color: black;  
+}
+
+.photoBackColor{
+     background-color: lightgrey;  
+}
+
+.passage{
+    border: 2px solid black;
+    border-radius: 5px;
+    text-align: center;   
+}
+
+.weighIn{
+    
+background:    #000;
+border-radius: 5px;
+color:         #fff;
+display:       inline-block;
+padding:       8px 20px;
+text-align:    center;
+}
+
+.time{
+    
+    color:blue;
+}
+
+.response{
+
+    border:1px solid grey;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+}
+
+/* Start of Private Book Club Page Styling */
+
+.button {
+  font: bold 11px Arial;
+  text-decoration: none;
+  background-color: #EEEEEE;
+  color: #333333;
+  padding: 2px 6px 2px 6px;
+  border-top: 1px solid #CCCCCC;
+  border-right: 1px solid #333333;
+  border-bottom: 1px solid #333333;
+  border-left: 1px solid #CCCCCC;
+}
+
+.center{
+    text-align: center; 
+}
+
+
+input{
+    
+    width: 300px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+textarea{
+    
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.test{
+    
+    width:100%;
+    border-radius: 5px;
+    border: 2px solid #E0E0E0;
+}
+
+.upload{
+    
+    width:600px;
+    height:200px;
+    border-radius: 5px;
+    border: 2px solid #E0E0E0;
+    background-color: darkslategrey;
+}
+
+

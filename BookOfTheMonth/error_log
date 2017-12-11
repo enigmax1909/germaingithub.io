@@ -1,0 +1,30 @@
+[28-Feb-2017 16:56:10 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home3/gevictor/public_html/BookOfTheMonth/functions-BOTM.php on line 24
+[28-Feb-2017 17:03:11 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home3/gevictor/public_html/BookOfTheMonth/functions-BOTM.php on line 27
+[28-Feb-2017 17:03:30 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home3/gevictor/public_html/BookOfTheMonth/functions-BOTM.php on line 27
+[28-Feb-2017 17:03:33 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home3/gevictor/public_html/BookOfTheMonth/functions-BOTM.php on line 27
+[28-Feb-2017 17:03:44 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/gevictor/public_html/BookOfTheMonth/functions-BOTM.php on line 29
+[28-Feb-2017 17:03:44 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/gevictor/public_html/BookOfTheMonth/functions-BOTM.php on line 31
+[28-Feb-2017 17:04:03 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/gevictor/public_html/BookOfTheMonth/functions-BOTM.php on line 29
+[28-Feb-2017 17:04:03 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/gevictor/public_html/BookOfTheMonth/functions-BOTM.php on line 31
+[28-Feb-2017 17:04:06 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/gevictor/public_html/BookOfTheMonth/functions-BOTM.php on line 29
+[28-Feb-2017 17:04:06 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/gevictor/public_html/BookOfTheMonth/functions-BOTM.php on line 31
+[28-Feb-2017 17:06:07 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/gevictor/public_html/BookOfTheMonth/functions-BOTM.php on line 29
+[28-Feb-2017 17:06:07 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/gevictor/public_html/BookOfTheMonth/functions-BOTM.php on line 31
+[28-Feb-2017 17:08:52 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/gevictor/public_html/BookOfTheMonth/functions-BOTM.php on line 29
+[28-Feb-2017 17:08:52 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/gevictor/public_html/BookOfTheMonth/functions-BOTM.php on line 31
+[28-Feb-2017 17:09:29 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home3/gevictor/public_html/BookOfTheMonth/functions-BOTM.php on line 29
+[28-Feb-2017 17:09:29 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/gevictor/public_html/BookOfTheMonth/functions-BOTM.php on line 31
+[28-Feb-2017 17:11:15 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/gevictor/public_html/BookOfTheMonth/functions-BOTM.php on line 31
+[28-Feb-2017 17:14:24 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/gevictor/public_html/BookOfTheMonth/functions-BOTM.php on line 28
+[28-Feb-2017 17:14:24 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/gevictor/public_html/BookOfTheMonth/functions-BOTM.php on line 30
+[28-Feb-2017 17:16:17 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/gevictor/public_html/BookOfTheMonth/functions-BOTM.php on line 31
+[28-Feb-2017 17:20:48 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/gevictor/public_html/BookOfTheMonth/functions-BOTM.php on line 29
+[28-Feb-2017 17:20:48 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/gevictor/public_html/BookOfTheMonth/functions-BOTM.php on line 31
+[01-Mar-2017 17:27:51 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/gevictor/public_html/BookOfTheMonth/functions-BOTM.php on line 80
+[01-Mar-2017 17:30:45 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/gevictor/public_html/BookOfTheMonth/functions-BOTM.php on line 55
+[01-Mar-2017 18:33:16 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home3/gevictor/public_html/BookOfTheMonth/functions-BOTM.php on line 108
+[01-Mar-2017 18:43:34 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home3/gevictor/public_html/BookOfTheMonth/functions-BOTM.php on line 98
+[31-Mar-2017 17:36:27 America/Chicago] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home3/gevictor/public_html/BookOfTheMonth/index.php on line 11
+[31-Mar-2017 17:36:43 America/Chicago] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home3/gevictor/public_html/BookOfTheMonth/index.php on line 11
+[31-Mar-2017 17:37:40 America/Chicago] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home3/gevictor/public_html/BookOfTheMonth/index.php on line 11
+[01-Apr-2017 21:02:24 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home3/gevictor/public_html/BookOfTheMonth/index.php on line 15
